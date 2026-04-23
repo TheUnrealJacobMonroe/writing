@@ -3,7 +3,7 @@
 ## Naming Conventions (CRITICAL)
 
 - **Lesson document**: `Lesson X - {Full Title}` (e.g., "Lesson 3 - The Principle of Correspondence") — NO "Book X" prefix on lesson docs
-- **Image**: `Book X Lesson Y.png` (e.g., "Book 1 Lesson 3.png") — "Book X" prefix ONLY on images. NEVER use the PBI number as the image name.
+- **Image**: `Book X Lesson Y.png` (e.g., "Book 1 Lesson 3.png") — Use the actual book number from the series. Book 1 = Seven Keys, Book 2 = Alchemy of Daily Life, Book 3 = Living Book of Correspondences, Book 4 = Soul's Ascent, Book 5 = Beyond the Veil. NEVER use the PBI number as the image name.
 - **PBI title**: `Lesson X: {Title}` (e.g., "Lesson 3: The Principle of Correspondence")
 
 ### Why image naming matters
