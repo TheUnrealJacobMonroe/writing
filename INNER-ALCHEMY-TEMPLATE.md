@@ -2,9 +2,9 @@
 
 ## Naming Conventions (CRITICAL)
 
-- **Lesson document**: `Book X Lesson Y - {Full Title}` (e.g., "Book 1 Lesson 3 - The Principle of Correspondence")
-- **Image**: `Book X Lesson Y.png` (e.g., "Book 1 Lesson 3.png")
-- **PBI title**: `Lesson Y: {Title}` (e.g., "Lesson 3: The Principle of Correspondence")
+- **Lesson document**: `Lesson X - {Full Title}` (e.g., "Lesson 3 - The Principle of Correspondence") — NO "Book X" prefix on lesson docs
+- **Image**: `Book X Lesson Y.png` (e.g., "Book 1 Lesson 3.png") — "Book X" prefix ONLY on images
+- **PBI title**: `Lesson X: {Title}` (e.g., "Lesson 3: The Principle of Correspondence")
 
 ## Google Drive Folder IDs
 
