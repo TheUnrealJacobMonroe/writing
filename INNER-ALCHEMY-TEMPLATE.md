@@ -3,8 +3,11 @@
 ## Naming Conventions (CRITICAL)
 
 - **Lesson document**: `Lesson X - {Full Title}` (e.g., "Lesson 3 - The Principle of Correspondence") — NO "Book X" prefix on lesson docs
-- **Image**: `Book X Lesson Y.png` (e.g., "Book 1 Lesson 3.png") — "Book X" prefix ONLY on images
+- **Image**: `Book X Lesson Y.png` (e.g., "Book 1 Lesson 3.png") — "Book X" prefix ONLY on images. NEVER use the PBI number as the image name.
 - **PBI title**: `Lesson X: {Title}` (e.g., "Lesson 3: The Principle of Correspondence")
+
+### Why image naming matters
+Images must be unique across books and identifiable by book/lesson number. The user needs to manually upload and organize images, so "Book 1 Lesson 3.png" is meaningful while "182.png" is not.
 
 ## Google Drive Folder IDs
 
