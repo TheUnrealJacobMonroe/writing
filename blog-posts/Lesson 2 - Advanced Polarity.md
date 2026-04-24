@@ -3,20 +3,35 @@
 ## Opening Dialogue
 
 "Master, I have been practicing what you taught me in Book 1. The Polarity Shift. When I feel something too strong, I try to find its opposite and move toward it."
+
 "And? How does it go?"
+
 "Some days it works beautifully. I feel myself swing from fear to courage, from irritation to patience, and it is like a door opens. But other days, I try to make the shift and nothing happens. I just bounce off. The emotion stays exactly where it is, or it gets worse because now I am also frustrated that I cannot change it."
+
 "Tell me what happens on the days it fails."
+
 "I try to go from angry to peaceful. I tell myself the opposite of anger is calm, and I try to be calm, and it is like trying to jump across a river. I can see the other side. I just cannot reach it."
+
 The Master nodded slowly. "Because you are trying to leap."
+
 "What do you mean?"
+
 "You are standing at one end of the pole and trying to jump to the other end in a single motion. That is not how the Principle of Polarity was designed to work. The old teachers understood something you have not yet been shown."
+
 "What is that?"
+
 "You do not jump. You slide."
+
 The seeker frowned. "What is the difference?"
+
 "Everything. When you leap from anger to peace, your entire system resists the change. It is too sudden and too unbelievable to the part of you that is still angry. The anger digs in. It holds its ground. But when you slide, when you find one small step between where you are and where you want to be and you take just that step, the resistance dissolves. You are not fighting yourself. You are moving with yourself."
+
 "One small step."
+
 "One small step, repeated, until you arrive. It happens in a series of real changes you actually feel. The Kybalion teaches that the rate of vibration can be increased or decreased. You have been trying to increase it all at once. Today I teach you to modulate it. To slide."
+
 "And that works?"
+
 "Ask me after you have tried it."
 
 ## The Essential Revelation
