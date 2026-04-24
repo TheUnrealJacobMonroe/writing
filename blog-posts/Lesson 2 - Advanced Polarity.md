@@ -12,7 +12,7 @@ Master: Tell me what happens on the days it fails.
 
 Seeker: I try to go from angry to peaceful. I tell myself the opposite of anger is calm, and I try to be calm, and it is like trying to jump across a river. I can see the other side. I just cannot reach it.
 
-Master: The Master nodded slowly. Because you are trying to leap.
+The Master nodded slowly. Because you are trying to leap.
 
 Seeker: What do you mean?
 
@@ -22,7 +22,7 @@ Seeker: What is that?
 
 Master: You do not jump. You slide.
 
-Seeker: The seeker frowned. What is the difference?
+The seeker frowned. What is the difference?
 
 Master: Everything. When you leap from anger to peace, your entire system resists the change. It is too sudden and too unbelievable to the part of you that is still angry. The anger digs in. It holds its ground. But when you slide, when you find one small step between where you are and where you want to be and you take just that step, the resistance dissolves. You are not fighting yourself. You are moving with yourself.
 
