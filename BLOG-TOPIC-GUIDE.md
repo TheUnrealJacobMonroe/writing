@@ -68,6 +68,45 @@ Lesser-known history of esoteric traditions, figures, and texts.
 - Example: "How the Corpus Hermeticum survived the fall of Rome (and almost didn't)"
 - Example: "The alchemist who fooled a king — and what it teaches about inner vs. outer gold"
 
+### 8. Unplugging from the Matrix
+The world is designed to keep people plugged in — unaware of the nature of the universe and who they really are. This category exposes the conditioning: the names we're given at birth, the narratives we're taught in school, the fear-based beliefs around death, the news cycles designed to keep us reactive. Not conspiracy theories — just Hermetic truth against inherited falsehood. Most of the "lies" aren't even malicious; most people genuinely believe what they're repeating. But the effect is the same: people sleepwalking through a mental reality they mistake for a physical one.
+- Example: "The name you were given at birth isn't yours — and that matters more than you think"
+- Example: "What school never taught you about the nature of consciousness"
+- Example: "You were taught to fear death. Hermeticism says that's backwards."
+- Example: "The news cycle is a polarity trap — here's how to stop falling for it"
+
+Rules for this category:
+- Expose untruths with facts and Hermetic teachings, not conspiracies
+- Acknowledge that most "lies" are people repeating what they believe, not deliberate deception
+- Avoid political conspiracies, Q-adjacent content, or fear-mongering
+- The tone should be liberating, not angry
+
+### 9. Government Research & Parapsychology
+Declassified government programs and legitimate research into the paranormal and parapsychological — but only verified, documented programs. The CIA's Gateway Process documents, Stanford's remote viewing studies, the Soviet psychotronics programs, Universe 25, MKUltra (the documented parts), the Stargate Project. These are real programs that were actually funded and actually conducted. The post should treat them as what they are: evidence that governments took these phenomena seriously enough to spend money on them.
+- Example: "The CIA spent 20 years studying remote viewing. Here's what they actually found."
+- Example: "Universe 25 and the death of utopia — what it teaches about consciousness collapse"
+- Example: "The Soviet Union's secret consciousness research — and what they concluded"
+- Example: "Stanford's remote viewing program: the science nobody talks about"
+
+Rules for this category:
+- Everything must be documented and factual — no speculation presented as fact
+- Avoid ghosts, UFOs, and aliens
+- This doesn't need to be US-only — Soviet and other international programs are fair game
+- The Hermetic connection should be natural, not forced
+
+### 10. Science Proving the Ancient Wisdom
+Scientific experiments and discoveries that accidentally (or intentionally) confirm what Hermeticism has taught for thousands of years. The double-slit experiment, quantum entanglement, the observer effect, block universe theory, the holographic principle, information theory applied to physics. Also includes historical writings that predicted modern discoveries — the Nag Hammadi Library, Alan Watts, Tesla's Wardenclyffe Tower and his theories about energy and consciousness.
+- Example: "The double-slit experiment proved what the Kybalion said 2,000 years ago"
+- Example: "Tesla's Wardenclyffe Tower wasn't about electricity — it was about something else"
+- Example: "Alan Watts figured out what physicists are still arguing about"
+- Example: "The Nag Hammadi Library and the science it predicted centuries early"
+
+Rules for this category:
+- Scientific claims must be real — actual experiments, actual results, actual peer-reviewed papers
+- Historical claims about figures like Tesla or Watts must be grounded in what they actually wrote or said
+- Avoid presenting fringe interpretations as established science
+- The "as above, so below" connection to Hermetic principles should be clear
+
 ## Anti-Patterns to Check For
 
 Before finalizing a topic, run through this checklist:

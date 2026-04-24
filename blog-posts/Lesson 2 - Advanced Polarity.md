@@ -140,18 +140,19 @@ What you are looking for is not perfection. You are looking for honesty. Some da
 
 After the seven days, review your maps. Look for patterns. Which slides were easy? Which resisted? Are there emotions you can slide out of quickly and emotions that seem to trap you near the pole? Those traps are your teachers. They show you where the work is.
 
-The Tracker:
+### The Tracker
 
 Use this template each day.
 
-Day | Starting Emotion | Intermediate Steps | Where I Arrived
-1 | | |
-2 | | |
-3 | | |
-4 | | |
-5 | | |
-6 | | |
-7 | | |
+| Day | Starting Emotion | Intermediate Steps | Where I Arrived |
+|-----|------------------|--------------------|----------------|
+| 1   |                  |                    |                |
+| 2   |                  |                    |                |
+| 3   |                  |                    |                |
+| 4   |                  |                    |                |
+| 5   |                  |                    |                |
+| 6   |                  |                    |                |
+| 7   |                  |                    |                |
 
 At the end of the week, write one sentence about what you learned about your own movement along the emotional axis. What you actually learned, not what you think you should have learned. That sentence is more valuable than any technique, because it comes from your own experience, and your own experience is the only laboratory that matters.
 
