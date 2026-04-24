@@ -2,25 +2,25 @@
 
 ## Opening Dialogue
 
-"You told me the universe is mental. That everything begins in the mind. But what do I do with that? Knowing it does not change anything."
+“You told me the universe is mental. That everything begins in the mind. But what do I do with that? Knowing it does not change anything.”
 
-The Master smiled. "It changes everything, once you understand what it means in practice. Knowing that fire is hot does not keep you warm. But knowing how to build a fire does. The principle of Mentalism tells you the nature of reality. Mental transmutation tells you what to do about it."
+The Master smiled. “It changes everything, once you understand what it means in practice. Knowing that fire is hot does not keep you warm. But knowing how to build a fire does. The principle of Mentalism tells you the nature of reality. Mental transmutation tells you what to do about it.”
 
-"So transmutation is the practical side."
+“So transmutation is the practical side.”
 
-"Transmutation is the art itself. The Kybalion says that the Hermetic masters could transmute one mental state into another. Not by force. Not by pretending. By understanding the law and working with it. They knew that because the universe is mental, the way to change your world is to change your mind. Not your thoughts. Your mind. There is a difference."
+“Transmutation is the art itself. The Kybalion says that the Hermetic masters could transmute one mental state into another. Not by force. Not by pretending. By understanding the law and working with it. They knew that because the universe is mental, the way to change your world is to change your mind. Not your thoughts. Your mind. There is a difference.”
 
-"What difference?"
+“What difference?”
 
-"A thought is a passing thing. It comes, it goes. You have thousands of them every day and most of them are not yours. They are echoes. Reactions. Habits wearing the mask of thinking. But the mind itself, the deeper faculty that the Hermeticists called Nous, that is something else entirely. The Corpus Hermeticum speaks of Nous as the creative intelligence, the generative power of the All. It is not the chatter on the surface. It is the engine beneath."
+“A thought is a passing thing. It comes, it goes. You have thousands of them every day and most of them are not yours. They are echoes. Reactions. Habits wearing the mask of thinking. But the mind itself, the deeper faculty that the Hermeticists called Nous, that is something else entirely. The Corpus Hermeticum speaks of Nous as the creative intelligence, the generative power of the All. It is not the chatter on the surface. It is the engine beneath.”
 
-The seeker nodded slowly. "And I can learn to operate that engine?"
+The seeker nodded slowly. “And I can learn to operate that engine?”
 
-"You already operate it. You just operate it unconsciously. Every mood you have ever fallen into, every emotional spiral, every sudden clarity, those are all acts of mental transmutation. You changed one state into another. The problem is that you did it by accident, carried by circumstance, buffeted by events you did not choose. The Hermeticist does the same thing on purpose. That is the entire difference between the initiate and the ordinary person. Not more power. More awareness of the power already at work."
+“You already operate it. You just operate it unconsciously. Every mood you have ever fallen into, every emotional spiral, every sudden clarity, those are all acts of mental transmutation. You changed one state into another. The problem is that you did it by accident, carried by circumstance, buffeted by events you did not choose. The Hermeticist does the same thing on purpose. That is the entire difference between the initiate and the ordinary person. Not more power. More awareness of the power already at work.”
 
-"Then where do I begin?"
+“Then where do I begin?”
 
-"Begin where you are. Begin with this morning. What state did you wake up in? Heavy? Light? Anxious about something you cannot name? That state has a texture, a color, a weight. Before you check your phone, before you remember your obligations, there is a raw mental condition sitting in you like ore in the earth. That is your starting material. The alchemist does not begin with gold. The alchemist begins with whatever is in front of him and learns to see the gold hidden inside it."
+“Begin where you are. Begin with this morning. What state did you wake up in? Heavy? Light? Anxious about something you cannot name? That state has a texture, a color, a weight. Before you check your phone, before you remember your obligations, there is a raw mental condition sitting in you like ore in the earth. That is your starting material. The alchemist does not begin with gold. The alchemist begins with whatever is in front of him and learns to see the gold hidden inside it.”
 
 ## The Essential Revelation
 
@@ -42,15 +42,15 @@ Most people are dragged. They wake up in whatever mood the previous night left t
 
 From the Corpus Hermeticum, Poimandres:
 
-"For the Man who is Mind, the Father who is Life and Light, begot a Man like unto himself, whom he loved as his own child. For he was most beautiful, bearing the image of his Father. For it was indeed with his own Form that God was in love, and he delivered over to his first-born all his own works."
+“For the Man who is Mind, the Father who is Life and Light, begot a Man like unto himself, whom he loved as his own child. For he was most beautiful, bearing the image of his Father. For it was indeed with his own Form that God was in love, and he delivered over to his first-born all his own works.”
 
 From the Emerald Tablet:
 
-"That which is below is like that which is above, and that which is above is like that which is below, to accomplish the miracles of the one thing."
+“That which is below is like that which is above, and that which is above is like that which is below, to accomplish the miracles of the one thing.”
 
 From the Kybalion:
 
-"Gender is in everything; everything has its masculine and feminine principles; Gender manifests on all planes."
+“Gender is in everything; everything has its masculine and feminine principles; Gender manifests on all planes.”
 
 Read these three passages together and notice how each tradition points to the same truth through a different window. The Corpus Hermeticum speaks of the Father begetting a Son through love and form, the Masculine principle giving of itself to produce a new manifestation through the Feminine capacity to receive and generate. The Emerald Tablet tells you that above and below mirror each other, and in that mirroring the miracle of the one thing is accomplished, the union of both principles at every level. The Kybalion states the principle plainly and without ornament. Gender. In everything. On all planes. Three voices. One song.
 
@@ -62,7 +62,7 @@ This exercise is called the Daily Mental Refining. It takes five minutes and req
 
 **Step 2.** Choose one thought or emotion that feels stuck or heavy. Don't try to fix everything at once. Pick just one thing.
 
-**Step 3.** Ask yourself: What would be one step toward a better state? Not the perfect state, just one step. If you're anxious, maybe the next step is "aware but calm." If you're heavy, maybe it's "light but grounded."
+**Step 3.** Ask yourself: What would be one step toward a better state? Not the perfect state, just one step. If you're anxious, maybe the next step is “aware but calm.” If you're heavy, maybe it's “light but grounded.”
 
 **Step 4.** Feel that intermediate state for a moment. Let it be real. Don't rush past it. This is the transmutation.
 
@@ -72,11 +72,11 @@ This exercise is called the Daily Mental Refining. It takes five minutes and req
 
 Here's where transmutation becomes practical.
 
-When you're stuck in traffic and feel anger rising, that's your cue. Don't just react. Transmute. Feel the anger, acknowledge it, then ask: What's one step toward calm? Maybe it's "frustrated but breathing." Maybe it's "annoyed but accepting." Take that step.
+When you're stuck in traffic and feel anger rising, that's your cue. Don't just react. Transmute. Feel the anger, acknowledge it, then ask: What's one step toward calm? Maybe it's “frustrated but breathing.” Maybe it's “annoyed but accepting.” Take that step.
 
-When someone at work takes credit for your idea, and you feel resentment, pause. Feel it fully. Then ask: What's one step toward peace? Maybe it's "hurt but understanding." Maybe it's "disappointed but detached." Move there.
+When someone at work takes credit for your idea, and you feel resentment, pause. Feel it fully. Then ask: What's one step toward peace? Maybe it's “hurt but understanding.” Maybe it's “disappointed but detached.” Move there.
 
-When you're overwhelmed at home, with too many demands and not enough time, stop. Feel the overwhelm. Then ask: What's one step toward groundedness? Maybe it's "busy but present." Maybe it's "responsible but calm."
+When you're overwhelmed at home, with too many demands and not enough time, stop. Feel the overwhelm. Then ask: What's one step toward groundedness? Maybe it's “busy but present.” Maybe it's “responsible but calm.”
 
 The key is to work with small shifts. Don't try to leap from rage to bliss. Go from rage to frustration to irritation to acceptance to peace. Each step is real. Each step is the transformation.
 
