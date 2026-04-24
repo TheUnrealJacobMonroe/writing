@@ -21,11 +21,11 @@ The seeker frowned. "What is the difference?"
 
 ## The Essential Revelation
 
-In Book 1, you learned that every pair of opposites shares an axis. Love and hate are not separate things that exist in different rooms. They are two points on a single line, and the distance between them can be measured. This was the discovery. It changed how you see your own emotions.
+In previous lessons, you learned that every pair of opposites shares an axis. Love and hate are not separate things that exist in different rooms. They are two points on a single line, and the distance between them can be measured. This was the discovery. It changed how you see your own emotions.
 
 Now comes the practice.
 
-In Book 2, you learn to move along the axis with care and intention. By covering the distance in increments your system can tolerate.
+In this lesson, you learn to move along the axis with care and intention. By covering the distance in increments your system can tolerate.
 
 Consider what happens when you are consumed by anger. Not the surface irritation — the real kind. The kind that sits in your chest and makes your jaw tight and narrows your vision until the entire world is just the thing you are angry about. Now someone tells you, or you tell yourself, that the opposite of anger is peace. Find peace. Let it go. Be calm.
 
