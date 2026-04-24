@@ -1,4 +1,4 @@
-Lesson 2: Advanced Polarity: Shifting Opposites in Thought and Emotion
+# Lesson 2: Advanced Polarity: Shifting Opposites in Thought and Emotion
 
 ## Opening Dialogue
 
