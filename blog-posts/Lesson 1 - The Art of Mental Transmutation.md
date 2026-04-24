@@ -4,23 +4,23 @@
 
 "You told me the universe is mental. That everything begins in the mind. But what do I do with that? Knowing it does not change anything."
 
-It changes everything, once you understand what it means in practice. Knowing that fire is hot does not keep you warm. But knowing how to build a fire does. The principle of Mentalism tells you the nature of reality. Mental transmutation tells you what to do about it.
+The Master smiled. "It changes everything, once you understand what it means in practice. Knowing that fire is hot does not keep you warm. But knowing how to build a fire does. The principle of Mentalism tells you the nature of reality. Mental transmutation tells you what to do about it."
 
 "So transmutation is the practical side."
 
-Transmutation is the art itself. The Kybalion says that the Hermetic masters could transmute one mental state into another. Not by force. Not by pretending. By understanding the law and working with it. They knew that because the universe is mental, the way to change your world is to change your mind. Not your thoughts. Your mind. There is a difference.
+"Transmutation is the art itself. The Kybalion says that the Hermetic masters could transmute one mental state into another. Not by force. Not by pretending. By understanding the law and working with it. They knew that because the universe is mental, the way to change your world is to change your mind. Not your thoughts. Your mind. There is a difference."
 
 "What difference?"
 
-A thought is a passing thing. It comes, it goes. You have thousands of them every day and most of them are not yours. They are echoes. Reactions. Habits wearing the mask of thinking. But the mind itself, the deeper faculty that the Hermeticists called Nous, that is something else entirely. The Corpus Hermeticum speaks of Nous as the creative intelligence, the generative power of the All. It is not the chatter on the surface. It is the engine beneath.
+"A thought is a passing thing. It comes, it goes. You have thousands of them every day and most of them are not yours. They are echoes. Reactions. Habits wearing the mask of thinking. But the mind itself, the deeper faculty that the Hermeticists called Nous, that is something else entirely. The Corpus Hermeticum speaks of Nous as the creative intelligence, the generative power of the All. It is not the chatter on the surface. It is the engine beneath."
 
-"And I can learn to operate that engine?"
+The seeker nodded slowly. "And I can learn to operate that engine?"
 
-You already operate it. You just operate it unconsciously. Every mood you have ever fallen into, every emotional spiral, every sudden clarity, those are all acts of mental transmutation. You changed one state into another. The problem is that you did it by accident, carried by circumstance, buffeted by events you did not choose. The Hermeticist does the same thing on purpose. That is the entire difference between the initiate and the ordinary person. Not more power. More awareness of the power already at work.
+"You already operate it. You just operate it unconsciously. Every mood you have ever fallen into, every emotional spiral, every sudden clarity, those are all acts of mental transmutation. You changed one state into another. The problem is that you did it by accident, carried by circumstance, buffeted by events you did not choose. The Hermeticist does the same thing on purpose. That is the entire difference between the initiate and the ordinary person. Not more power. More awareness of the power already at work."
 
 "Then where do I begin?"
 
-Begin where you are. Begin with this morning. What state did you wake up in? Heavy? Light? Anxious about something you cannot name? That state has a texture, a color, a weight. Before you check your phone, before you remember your obligations, there is a raw mental condition sitting in you like ore in the earth. That is your starting material. The alchemist does not begin with gold. The alchemist begins with whatever is in front of him and learns to see the gold hidden inside it.
+"Begin where you are. Begin with this morning. What state did you wake up in? Heavy? Light? Anxious about something you cannot name? That state has a texture, a color, a weight. Before you check your phone, before you remember your obligations, there is a raw mental condition sitting in you like ore in the earth. That is your starting material. The alchemist does not begin with gold. The alchemist begins with whatever is in front of him and learns to see the gold hidden inside it."
 
 ## The Essential Revelation
 
